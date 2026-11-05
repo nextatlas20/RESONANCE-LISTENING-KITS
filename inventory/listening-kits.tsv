@@ -1,0 +1,7 @@
+kit_id	venue	ready_by	tier	required_headsets	assigned_channel	min_battery_pct
+K-A	Aurora Hall	2054-11-12T18:00Z	PRIORITY	2	3	80
+K-B	Birch Studio	2054-11-12T18:10Z	STANDARD	2	1	70
+K-C	Cobalt Room	2054-11-12T18:20Z	PRIORITY	1	2	75
+K-D	Dune Theatre	2054-11-12T18:30Z	STANDARD	2	4	60
+K-E	Elm Loft	2054-11-12T18:40Z	PRIORITY	2	5	85
+K-F	Fjord Stage	2054-11-12T18:50Z	STANDARD	1	6	65
